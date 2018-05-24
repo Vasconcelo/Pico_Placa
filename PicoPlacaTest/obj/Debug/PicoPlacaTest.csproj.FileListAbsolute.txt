@@ -1,0 +1,7 @@
+C:\Users\Vasco\Documents\Visual Studio 2012\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlacaTest.dll
+C:\Users\Vasco\Documents\Visual Studio 2012\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlacaTest.pdb
+C:\Users\Vasco\Documents\Visual Studio 2012\Projects\PicoPlaca\PicoPlacaTest\obj\Debug\PicoPlacaTest.csprojResolveAssemblyReference.cache
+C:\Users\Vasco\Documents\Visual Studio 2012\Projects\PicoPlaca\PicoPlacaTest\obj\Debug\PicoPlacaTest.dll
+C:\Users\Vasco\Documents\Visual Studio 2012\Projects\PicoPlaca\PicoPlacaTest\obj\Debug\PicoPlacaTest.pdb
+C:\Users\Vasco\Documents\Visual Studio 2012\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlaca.exe
+C:\Users\Vasco\Documents\Visual Studio 2012\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlaca.pdb
